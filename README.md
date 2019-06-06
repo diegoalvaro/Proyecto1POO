@@ -13,9 +13,10 @@
   3.Elegir la opción del juego------------------------------------------------------
   4.Jugar-----------------------------------------------------------------------------
   ------------------------------------------------------------------------------------
+  
 *)Reglas del juego :--------------------------------------------------------------------
-  -El"O" siginifica la presencia de una ficha tipo ludo y el "+" simboliza un vacío--
+  -El"O" siginifica la presencia de una ficha tipo ludo y el "+" simboliza un vacío---
   -Ingresar las coordenadas que esten dentro de la figura(opcion) elegida---------
   -Solo está permitido el movimiento horizontal o vertical, mas  no diagonal-----
-  -Se debebe "comer" solo si entre el vacío y la ficha debe haber otra ficha--
+ 
   
