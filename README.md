@@ -1,9 +1,9 @@
 # Proyecto1POO
-*)Requisitos:---------------------------------------------------------------------------
-  -Ordenador portátil-------------------------------------------------------------------
-  -Plataforma de desarrollo Visual Studio---------------------------------------------
-  -Sistema operativo Windows---------------------------------------------------------
-  -Conocimientos en programación c++ ----------------------------------------------
+*)Requisitos:----------------------------------------------------------------------------
+  -Ordenador portátil--------------------------------------------------------------------
+  -Plataforma de desarrollo Visual Studio----------------------------------------------
+  -Sistema operativo Windows----------------------------------------------------------
+  -Conocimientos en programación c++ ---------------------------------------------
   -Conocimientos en estructuras repetitivas,vectores,estrucuras selectivas----
   ----------------------------------------------------------------------------
  
@@ -13,8 +13,8 @@
   3.Elegir la opción del juego------------------------------------------------------
   4.Jugar-----------------------------------------------------------------------------
   ------------------------------------------------------------------------------------
-*)Reglas del juego :
-  -La letra "O" en la matrix siginifica la presencia de una ficha tipo ludo y el "+" simboliza un vacío.---------------------------
+*)Reglas del juego :-----------------------------------------------------------------
+  -La letra "O"  siginifica la presencia de una ficha tipo ludo y el "+" simboliza un vacío.----
   -Ingresar las coordenadas que esten dentro de la figura(opcion) elegida---------------------------------------------------------
   -Solo está permitido el movimiento horizontal o vertical, mas  no diagonal------------------------------------------------------
   -
